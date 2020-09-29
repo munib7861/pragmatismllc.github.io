@@ -1533,7 +1533,7 @@ footer p {
   .navbar .navbar-collapse {
     max-height: 340px;
     overflow: auto;
-    background: #111;
+    background: #dadada;
     text-align: center;
     padding: 10px 0;
   }
